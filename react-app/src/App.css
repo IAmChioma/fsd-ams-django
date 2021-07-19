@@ -1,0 +1,16 @@
+.body{
+    margin: auto;
+}
+
+.main-content {
+    position: relative; 
+    width: 80%;
+    padding: 2%;
+    margin: auto;
+    /* text-align: center; */
+}
+
+.table {
+    display: inline-block;
+    justify-content: space-between;
+}
